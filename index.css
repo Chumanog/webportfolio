@@ -1,0 +1,80 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    border-bottom: 5px solid #00ffff;
+    border-top: 5px solid #00ffff;
+  }
+
+#landing {
+  background-color: gray; 
+  border-radius: 8px; 
+  padding: 30px; 
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  border: 3px solid black;
+}
+
+#landing h2 {
+  color: #333;
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-color: #00ffff;
+  }
+
+#landing img {
+  margin-bottom: 20px;
+}
+
+#landing p {
+  margin-top: 20px;
+  font-size: 1rem;
+  font-weight: 400; 
+  color: #000000;
+  line-height: 1.6; 
+}
+
+#landing .lead {
+  font-size: 1.2rem;  
+  font-weight: 500;     
+  color: #000000;
+}
+
+#projects {
+  background-color: gray; 
+  border-radius: 8px; 
+  padding: 30px; 
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  border: 3px solid black;
+}
+
+.card {
+  min-height: 300px;
+}
+
+#tools {
+  background-color: gray; 
+  border-radius: 8px; 
+  padding: 30px; 
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  border: 3px solid black;
+}
+
+.tool-icon {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
+
+#contact {
+  background-color: gray; 
+  border-radius: 8px; 
+  padding: 30px; 
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  border: 3px solid black;
+}
+
+#footer {
+    border-bottom: 5px solid #00ffff;
+    border-top: 5px solid #00ffff;
+  }
